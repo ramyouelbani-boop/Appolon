@@ -2,7 +2,7 @@
 
 > Carnet de cuisine éditorial. Compose tes ingrédients, l'IA t'écrit une recette des cuisines du monde et te montre le plat fini.
 
-**Site en ligne : https://apollon.vercel.app**
+**Site en ligne : https://apollon-delta.vercel.app**
 
 Projet étudiant développé en duo avec une app sport (le pendant nutrition d'une plateforme bien-être complète).
 
